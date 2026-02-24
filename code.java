@@ -1,4 +1,4 @@
-Ximport java.util.Scanner;
+import java.util.Scanner;
 
 public class Mad_Libs_Game {
 
